@@ -11,7 +11,7 @@
     <groupId>com.programming.techie</groupId>
     <artifactId>spring-reddit-clone</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-reddit-clone</name>
+    <name>springbootdemo</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
